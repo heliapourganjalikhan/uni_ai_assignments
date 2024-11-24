@@ -1,0 +1,5 @@
+# Ignore compliled binaries
+*.a
+*.b
+*A*.o
+*BFS.o
